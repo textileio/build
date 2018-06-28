@@ -1,5 +1,8 @@
 # Textile Build
+
 ## Everything you need to know to start building for the decentralized web
+
+### [Signup now](https://build.textile.io)!
 
 ### What will I learn? 
 
@@ -35,3 +38,6 @@ Anybody with a little bit of backend and/or frontend software development - 
 | Thur Aug 9th   | **Adding Complexity by Deploying an Interactive Đapp:** Extending our prototype Đapp and deploying it ‘live’ on the distributed web | Interaction: Adding peer-to-peer communications         |
 | Tues Aug 14th  | **Round-up and Final Discussion:** Finishing touches to our Đapp, group discussion, and next steps                                  | Next steps: Fine-tuning your IPFS setup and Đapps       |
 
+## Signup
+
+Signup now at https://build.textile.io
