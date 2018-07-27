@@ -33,8 +33,8 @@ Anybody with a little bit of backend and/or frontend software development - 
 | Date           | Topic                                                                                                                          | Skills                                                  |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
 | Tues July 31st | **Introduction to the Decentralized Web:** What is content addressing, shared storage, key differences from legacy systems          | Setup: Installing and using IPFS, and development setup |
-| Thur Aug 2nd   | **Exploring the Interplanetary File System:** A deep dive into IPFS and the protocol layers that drive it                           | Cryptography 101: Hashing, Crypto, and Merkle DAGs      |
-| Tues Aug 7th   | **Developing a Basic Distributed Application (Đapp):** From an empty project to a working prototype in less than an hour            | Data storage: Accessing IPFS from a browser             |
+| Thur Aug 2nd   | **Exploring the Interplanetary File System:** A deep dive into IPFS and the protocol layers that drive it                           | Data access: Accessing IPFS from a browser      |
+| Tues Aug 7th   | **Developing a Basic Distributed Application (Đapp):** From an empty project to a working prototype in less than an hour            | Data storage: Adding content from a browser             |
 | Thur Aug 9th   | **Adding Complexity by Deploying an Interactive Đapp:** Extending our prototype Đapp and deploying it ‘live’ on the distributed web | Interaction: Adding peer-to-peer communications         |
 | Tues Aug 14th  | **Round-up and Final Discussion:** Finishing touches to our Đapp, group discussion, and next steps                                  | Next steps: Fine-tuning your IPFS setup and Đapps       |
 
